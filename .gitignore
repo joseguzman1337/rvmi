@@ -59,3 +59,7 @@ kvm-rvmi-kmod/x86/pmu_intel.c
 kvm-rvmi-kmod/x86/vfio.[ch]
 kvm-rvmi-kmod/x86/vmi.[ch]
 kvm-rvmi-kmod/.stgit-*
+
+# macOS system files
+.DS_Store
+._*
